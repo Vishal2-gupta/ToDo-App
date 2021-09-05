@@ -8,7 +8,7 @@
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/132138711-4318d8b7-8e27-4075-8fa5-241e17dff281.jpg" width="400" height="600"/>
 
-#RecyclerView
+# RecyclerView
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/132138716-3301ce17-357d-448d-8f4b-151950cdb567.jpg" width="400" height="600"/> 
 
@@ -24,7 +24,7 @@
   <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/132138752-27d97208-193e-44e7-87f5-6a57cf9a7847.jpg" width="400" height="600"/>
 
-#Retrofit
+# Retrofit
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/132138754-7ef9c2d9-fff7-4f0b-b24d-e681f6448abc.jpg" width="400" height="600"/>
 
