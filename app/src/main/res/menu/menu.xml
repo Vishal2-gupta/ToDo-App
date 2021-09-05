@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="ToDoList">
+        <menu>
+    <item
+        android:title="Home"
+        android:id="@+id/h1"></item>
+    <item
+        android:title="Finish task"
+        android:id="@+id/ff1"></item>
+    <item
+        android:title="Log Out"
+        android:id="@+id/o1"></item>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Refresh"
+            android:id="@+id/r1"
+            app:showAsAction="always"
+            android:icon="@drawable/ic_baseline_refresh_24"
+            ></item>
+        <item
+            android:title="share App"
+            android:id="@+id/s1"
+            android:icon="@drawable/ic_baseline_share_24"
+            app:showAsAction="always"></item>
+    </group>
+</menu>
